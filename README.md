@@ -6,7 +6,7 @@ I'm Taniishk Deshpande
 -  Interested in AI, Machine Learning & Generative AI , Python and Cybersecurity 
 -  Currently learning: Data Structures & Algorithms, Machine Learning, and Cybersecurity  
 
-## 🛠️ Tech Stack
+
 ## 🛠️ Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
