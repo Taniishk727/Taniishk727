@@ -1,3 +1,4 @@
+![Banner](https://github.com/Taniishk727/Taniishk727/blob/main/banner.png?raw=true)
 ## Hi there 👋
 I'm Taniishk Deshpande
 
