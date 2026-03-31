@@ -10,11 +10,10 @@ I'm Taniishk Deshpande
 ## 🛠️ Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn) | Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python) 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux) | CyberSecurity
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+| Machine Learning | CyberSecurity | Tensorflow | Scikit learn | OpenCV | Flask | Flutter 
 
 ## 🌟 Projects
 ### 🌞 Solar Energy Prediction
@@ -31,6 +30,4 @@ Python • OpenCV • TensorFlow • Scikit-learn • Flask (Backend API) • Re
 ## 📫 Connect With Me
 - LinkedIn: - [LinkedIn][(www.linkedin.com/in/taniishk-deshpande-80a007219)]
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
