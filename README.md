@@ -12,11 +12,9 @@ I'm Taniishk Deshpande
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn) | Machine Learning
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
-![Machine%20Learning-102230?style=for-the-badge&logo=ai)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![Cybersecurity-000000?style=for-the-badge&logo=hackthebox)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux) | CyberSecurity
 
 ## 🌟 Projects
 ### 🌞 Solar Energy Prediction
