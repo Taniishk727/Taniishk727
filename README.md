@@ -30,5 +30,3 @@ Python • OpenCV • TensorFlow • Scikit-learn • Flask (Backend API) • Re
 
 ## 📫 Connect With Me
 - LinkedIn: - [LinkedIn][(www.linkedin.com/in/taniishk-deshpande-80a007219)]
-
--->
