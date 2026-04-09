@@ -29,6 +29,7 @@ I'm Taniishk Deshpande
 ## Projects
 ###  Solar Energy Prediction
 - Predicts solar power using weather data
+  
 **Tech Stack:**  
 Python • TensorFlow • Flask (Backend API) • Streamlit (Frontend)
 
