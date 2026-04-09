@@ -1,14 +1,14 @@
 ![Banner](https://github.com/Taniishk727/Taniishk727/blob/main/banner2.png?raw=true)
-## Hi there 👋
+## Hi there 
 I'm Taniishk Deshpande
 
-## 🚀 About Me
+## About Me
 -  Second-year IT student  
 -  Interested in AI, Machine Learning & Generative AI , Python and Cybersecurity 
 -  Currently learning: Data Structures & Algorithms, Machine Learning, and Cybersecurity  
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
@@ -26,22 +26,22 @@ I'm Taniishk Deshpande
 ![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-## 🌟 Projects
-### 🌞 Solar Energy Prediction
+## Projects
+###  Solar Energy Prediction
 - Predicts solar power using weather data
 **Tech Stack:**  
 Python • TensorFlow • Flask (Backend API) • Streamlit (Frontend)
-### 🌞 Solar Energy Prediction  
+
 [![Repo](https://img.shields.io/badge/View%20Repo-GitHub-black?style=for-the-badge&logo=github)](https://github.com/husain34/SunNet-TechRush.git)
   
-### 🌾 AgroGuard
+### AgroGuard
 - Agricultural intelligence system for crop identification and disease detection  
 - Uses image processing and ML models to classify crops and detect diseases  
 
 **Tech Stack:**  
 Python • OpenCV • TensorFlow • Scikit-learn • Flask (Backend API) • React (Frontend) • PostgreSQL  
 
-## 📫 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taniishk-deshpande-80a007219)
 
