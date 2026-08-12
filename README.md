@@ -5,7 +5,7 @@ I'm Taniishk Deshpande
 ## About Me
 -  Second-year IT student  
 -  Interested in AI, Machine Learning & Generative AI , Python and Cybersecurity 
--  Currently learning: Data Structures & Algorithms, Machine Learning, and Cybersecurity  
+-  Currently learning:Machine Learning and Cybersecurity  
 
 
 ## Tech Stack
@@ -27,14 +27,7 @@ I'm Taniishk Deshpande
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ## Projects
-###  Solar Energy Prediction
-- Predicts solar power using weather data
-  
-**Tech Stack:**  
-Python • TensorFlow • Flask (Backend API) • Streamlit (Frontend)
 
-[![Repo](https://img.shields.io/badge/View%20Repo-GitHub-black?style=for-the-badge&logo=github)](https://github.com/husain34/SunNet-TechRush.git)
-  
 ### AgroGuard
 - Agricultural intelligence system for crop identification and disease detection  
 - Uses image processing and ML models to classify crops and detect diseases  
@@ -47,4 +40,5 @@ Python • OpenCV • TensorFlow • Scikit-learn • Flask (Backend API) • Re
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taniishk-deshpande-80a007219)
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Taniishk)
+
 
