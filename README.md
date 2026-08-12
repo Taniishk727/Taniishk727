@@ -1,5 +1,5 @@
 ![Banner](https://github.com/Taniishk727/Taniishk727/blob/main/banner2.png?raw=true)
-##Hi there, I'm Taniishk Deshpande
+## Hi there, I'm Taniishk Deshpande
 Cybersecurity Enthusiast | CTF Player | IT Student
 
 I'm a Third-year Information Technology student at PICT, Pune, focused on building practical skills in Cybersecurity, Penetration Testing, OSINT, Linux, Networking, and Web Security.
@@ -42,6 +42,15 @@ Currently exploring automation and AI applications in cybersecurity
 [![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-444444?style=for-the-badge)](https://www.openwall.com/john/)
 [![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge)](https://hashcat.net/hashcat/)
 [![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-1679A7?style=for-the-badge)](https://www.aircrack-ng.org/)
+[![Amass](https://img.shields.io/badge/Amass-000000?style=for-the-badge)](https://github.com/owasp-amass/amass)
+[![theHarvester](https://img.shields.io/badge/theHarvester-333333?style=for-the-badge)](https://github.com/laramies/theHarvester)
+[![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge)](https://www.shodan.io/)
+[![Whois](https://img.shields.io/badge/WHOIS-444444?style=for-the-badge)](https://www.whois.com/)
+[![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)](https://www.metasploit.com/)
+[![Impacket](https://img.shields.io/badge/Impacket-333333?style=for-the-badge)](https://github.com/fortra/impacket)
+[![Netcat](https://img.shields.io/badge/Netcat-333333?style=for-the-badge)](https://nc110.sourceforge.io/)
+[![Chisel](https://img.shields.io/badge/Chisel-444444?style=for-the-badge)](https://github.com/jpillora/chisel)
+[![Tcpdump](https://img.shields.io/badge/Tcpdump-444444?style=for-the-badge)](https://www.tcpdump.org/)
 
 ## Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge)
